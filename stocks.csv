@@ -4,8 +4,6 @@ NasdaqGS,AMZN,"Amazon.com, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,GOOG,Alphabet Inc.,Information Technology,Software and Services
 NasdaqGS,MSFT,Microsoft Corporation,Information Technology,Software and Services
 NasdaqGS,FB,"Facebook, Inc.",Information Technology,Software and Services
-NYSE,BRK.A,Berkshire Hathaway Inc.,Financials,Diversified Financials
-NYSE,BRK.B,Berkshire Hathaway Inc.,Financials,Diversified Financials
 NYSE,JPM,JPMorgan Chase & Co.,Financials,Banks
 NYSE,JNJ,Johnson & Johnson,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,V,Visa Inc.,Information Technology,Software and Services
@@ -22,7 +20,7 @@ NYSE,C,Citigroup Inc.,Financials,Bankså
 NasdaqGS,NFLX,"Netflix, Inc.",Consumer Discretionary,Retailing
 NYSE,MRK,"Merck & Co., Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,DIS,The Walt Disney Company,Consumer Discretionary,Media
-NasdaqGS,CMCS.A,Comcast Corporation,Consumer Discretionary,Media
+NasdaqGS,CMCSA,Comcast Corporation,Consumer Discretionary,Media
 NasdaqGS,NVDA,NVIDIA Corporation,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,RY,Royal Bank of Canada,Financials,Banks
 NYSE,ABBV,AbbVie Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
@@ -68,10 +66,8 @@ NYSE,SYK,Stryker Corporation,Healthcare,Healthcare Equipment and Services
 NYSE,ANTM,"Anthem, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,VMW,"VMware, Inc.",Information Technology,Software and Services
 NYSE,CB,Chubb Limited,Financials,Insurance
-NasdaqGS,CELG,Celgene Corporation,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ATVI,"Activision Blizzard, Inc.",Information Technology,Software and Services
 NasdaqGS,ADP,"Automatic Data Processing, Inc.",Information Technology,Software and Services
-NYSE,AGN,Allergan plc,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,TJX,"The TJX Companies, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,ISRG,"Intuitive Surgical, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,LVS,Las Vegas Sands Corp.,Consumer Discretionary,Consumer Services
@@ -104,7 +100,6 @@ NYSE,CCL,Carnival Corporation,Consumer Discretionary,Consumer Services
 NYSE,TGT,Target Corporation,Consumer Discretionary,Retailing
 NYSE,ZTS,Zoetis Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,PRU,"Prudential Financial, Inc.",Financials,Insurance
-NYSE,BBT,BB&T Corporation,Financials,Banks
 NYSE,BAX,Baxter International Inc.,Healthcare,Healthcare Equipment and Services
 NYSE,TRI,Thomson Reuters Corporation,Financials,Diversified Financials
 NasdaqGS,REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
@@ -128,10 +123,8 @@ NYSE,SPOT,Spotify Technology S.A.,Information Technology,Software and Services
 NYSE,SLF,Sun Life Financial Inc.,Financials,Insurance
 NasdaqGS,ROST,"Ross Stores, Inc.",Consumer Discretionary,Retailing
 NYSE,TEL,TE Connectivity Ltd.,Information Technology,Technology Hardware and Equipment
-NYSE,STI,"SunTrust Banks, Inc.",Financials,Banks
 NasdaqGS,SIRI,Sirius XM Holdings Inc.,Consumer Discretionary,Media
 NasdaqGS,FISV,"Fiserv, Inc.",Information Technology,Software and Services
-NasdaqGS,AMTD,TD Ameritrade Holding Corporation,Financials,Diversified Financials
 NYSE,EW,Edwards Lifesciences Corporation,Healthcare,Healthcare Equipment and Services
 NasdaqGS,ALXN,"Alexion Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ADSK,"Autodesk, Inc.",Information Technology,Software and Services
@@ -146,8 +139,6 @@ NYSE,SQ,"Square, Inc.",Information Technology,Software and Services
 NYSE,RACE,Ferrari N.V.,Consumer Discretionary,Automobiles and Components
 NYSE,APH,Amphenol Corporation,Information Technology,Technology Hardware and Equipment
 NYSE,DG,Dollar General Corporation,Consumer Discretionary,Retailing
-NYSE,RHT,"Red Hat, Inc.",Information Technology,Software and Services
-NYSE,WP,"Worldpay, Inc.",Information Technology,Software and Services
 NYSE,YUM,"YUM! Brands, Inc.",Consumer Discretionary,Consumer Services
 NasdaqGS,PAYX,"Paychex, Inc.",Information Technology,Software and Services
 NYSE,APTV,Aptiv PLC,Consumer Discretionary,Automobiles and Components
@@ -164,11 +155,9 @@ NasdaqGS,WDC,Western Digital Corporation,Information Technology,Technology Hardw
 NasdaqGS,ORLY,"O'Reilly Automotive, Inc.",Consumer Discretionary,Retailing
 NYSE,RCL,Royal Caribbean Cruises Ltd.,Consumer Discretionary,Consumer Services
 NYSE,ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Healthcare Equipment and Services
-NasdaqGS,LBTY.A,Liberty Global plc,Consumer Discretionary,Media
-NasdaqGS,LBTY.B,Liberty Global plc,Consumer Discretionary,Media
-NasdaqGS,LBTY.K,Liberty Global plc,Consumer Discretionary,Media
-NYSE,CBS,CBS Corporation,Consumer Discretionary,Media
-NYSE,CBS.A,CBS Corporation,Consumer Discretionary,Media
+NasdaqGS,LBTYA,Liberty Global plc,Consumer Discretionary,Media
+NasdaqGS,LBTYB,Liberty Global plc,Consumer Discretionary,Media
+NasdaqGS,LBTYK,Liberty Global plc,Consumer Discretionary,Media
 NasdaqGS,MCHP,Microchip Technology Incorporated,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,IQV,IQVIA Holdings Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,NTAP,"NetApp, Inc.",Information Technology,Technology Hardware and Equipment
@@ -176,7 +165,6 @@ NYSE,DB,Deutsche Bank Aktiengesellschaft,Financials,Diversified Financials
 NYSE,KEY,KeyCorp,Financials,Banks
 NYSE,BBY,"Best Buy Co., Inc.",Consumer Discretionary,Retailing
 NasdaqGS,WLTW,Willis Towers Watson Public Limited Company,Financials,Insurance
-NYSE,FDC,First Data Corporation,Information Technology,Software and Services
 NasdaqGS,IDXX,"IDEXX Laboratories, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,AMP,"Ameriprise Financial, Inc.",Financials,Diversified Financials
 NasdaqGS,DLTR,"Dollar Tree, Inc.",Consumer Discretionary,Retailing
@@ -193,11 +181,10 @@ NYSE,ABC,AmerisourceBergen Corporation,Healthcare,Healthcare Equipment and Servi
 NYSE,LH,Laboratory Corporation of America Holdings,Healthcare,Healthcare Equipment and Services
 NasdaqGS,EXPE,"Expedia Group, Inc.",Consumer Discretionary,Retailing
 NYSE,HIG,"The Hartford Financial Services Group, Inc.",Financials,Insurance
-NasdaqGS,MYL,Mylan N.V.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ABMD,"ABIOMED, Inc.",Healthcare,Healthcare Equipment and Services
-NasdaqGS,DISC.A,"Discovery, Inc.",Consumer Discretionary,Media
-NasdaqGS,DISC.B,"Discovery, Inc.",Consumer Discretionary,Media
-NasdaqGS,DISC.K,"Discovery, Inc.",Consumer Discretionary,Media
+NasdaqGS,DISCA,"Discovery, Inc.",Consumer Discretionary,Media
+NasdaqGS,DISCB,"Discovery, Inc.",Consumer Discretionary,Media
+NasdaqGS,DISCK,"Discovery, Inc.",Consumer Discretionary,Media
 NYSE,GPN,Global Payments Inc.,Information Technology,Software and Services
 NYSE,AZO,"AutoZone, Inc.",Consumer Discretionary,Retailing
 NYSE,BAP,Credicorp Ltd.,Financials,Banks
@@ -208,7 +195,6 @@ NasdaqGS,WYNN,"Wynn Resorts, Limited",Consumer Discretionary,Consumer Services
 NYSE,OMC,Omnicom Group Inc.,Consumer Discretionary,Media
 NYSE,SHOP,Shopify Inc.,Information Technology,Software and Services
 NYSE,LEN,Lennar Corporation,Consumer Discretionary,Consumer Durables and Apparel
-NYSE,LEN.B,Lennar Corporation,Consumer Discretionary,Consumer Durables and Apparel
 NYSE,BEN,"Franklin Resources, Inc.",Financials,Diversified Financials
 NasdaqGS,CHKP,Check Point Software Technologies Ltd.,Information Technology,Software and Services
 NYSE,MGM,MGM Resorts International,Consumer Discretionary,Consumer Services
@@ -220,13 +206,12 @@ NYSE,SNAP,Snap Inc.,Information Technology,Software and Services
 NYSE,MHK,"Mohawk Industries, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NYSE,TIF,Tiffany & Co.,Consumer Discretionary,Retailing
 NasdaqGS,HBAN,Huntington Bancshares Incorporated,Financials,Banks
-NYSE,TSS,"Total System Services, Inc.",Information Technology,Software and Services
 NasdaqGS,KLAC,KLA-Tencor Corporation,Information Technology,Semiconductors and Semiconductor Equipment
 NasdaqGS,SIVB,SVB Financial Group,Financials,Banks
 NYSE,L,Loews Corporation,Financials,Insurance
-NasdaqGS,LSXM.A,The Liberty SiriusXM Group,Consumer Discretionary,Media
-NasdaqGS,LSXM.B,The Liberty SiriusXM Group,Consumer Discretionary,Media
-NasdaqGS,LSXM.K,The Liberty SiriusXM Group,Consumer Discretionary,Media
+NasdaqGS,LSXMA,The Liberty SiriusXM Group,Consumer Discretionary,Media
+NasdaqGS,LSXMB,The Liberty SiriusXM Group,Consumer Discretionary,Media
+NasdaqGS,LSXMK,The Liberty SiriusXM Group,Consumer Discretionary,Media
 NYSE,MKL,Markel Corporation,Financials,Insurance
 NYSE,DHI,"D.R. Horton, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,ETFC,E*TRADE Financial Corporation,Financials,Diversified Financials
@@ -250,8 +235,8 @@ NasdaqGS,CTXS,"Citrix Systems, Inc.",Information Technology,Software and Service
 NasdaqGS,INCY,Incyte Corporation,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,MTD,Mettler-Toledo International Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,TTWO,"Take-Two Interactive Software, Inc.",Information Technology,Software and Services
-NasdaqGS,LBRD.A,Liberty Broadband Corporation,Consumer Discretionary,Media
-NasdaqGS,LBRD.K,Liberty Broadband Corporation,Consumer Discretionary,Media
+NasdaqGS,LBRDA,Liberty Broadband Corporation,Consumer Discretionary,Media
+NasdaqGS,LBRDK,Liberty Broadband Corporation,Consumer Discretionary,Media
 NYSE,YUMC,"Yum China Holdings, Inc.",Consumer Discretionary,Consumer Services
 NYSE,LNC,Lincoln National Corporation,Financials,Insurance
 NYSE,SJR,Shaw Communications Inc.,Consumer Discretionary,Media
@@ -263,7 +248,6 @@ NYSE,KMX,"CarMax, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,SNPS,"Synopsys, Inc.",Information Technology,Software and Services
 NYSE,TPR,"Tapestry, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NYSE,ATUS,"Altice USA, Inc.",Consumer Discretionary,Media
-NasdaqGS,SYMC,Symantec Corporation,Information Technology,Software and Services
 NYSE,RJF,"Raymond James Financial, Inc.",Financials,Diversified Financials
 NasdaqGS,AKAM,"Akamai Technologies, Inc.",Information Technology,Software and Services
 NYSE,CNA,CNA Financial Corporation,Financials,Insurance
@@ -282,8 +266,6 @@ NYSE,DVA,DaVita Inc.,Healthcare,Healthcare Equipment and Services
 NYSE,TFX,Teleflex Incorporated,Healthcare,Healthcare Equipment and Services
 NYSE,LEA,Lear Corporation,Consumer Discretionary,Automobiles and Components
 NasdaqGS,YNDX,Yandex N.V.,Information Technology,Software and Services
-NasdaqGS,VIA,"Viacom, Inc.",Consumer Discretionary,Media
-NasdaqGS,VIAB,"Viacom, Inc.",Consumer Discretionary,Media
 NYSE,ADS,Alliance Data Systems Corporation,Information Technology,Software and Services
 NYSE,GDDY,GoDaddy Inc.,Information Technology,Software and Services
 NasdaqGS,HAS,"Hasbro, Inc.",Consumer Discretionary,Consumer Durables and Apparel
@@ -299,7 +281,6 @@ NYSE,MTN,"Vail Resorts, Inc.",Consumer Discretionary,Consumer Services
 NasdaqGS,ACGL,Arch Capital Group Ltd.,Financials,Insurance
 NasdaqGS,CINF,Cincinnati Financial Corporation,Financials,Insurance
 NYSE,GPS,"The Gap, Inc.",Consumer Discretionary,Retailing
-NYSE,WCG,"WellCare Health Plans, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqGS,HSIC,"Henry Schein, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,PVH,PVH Corp.,Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,PTC,PTC Inc.,Information Technology,Software and Services
@@ -317,8 +298,8 @@ NYSE,LYV,"Live Nation Entertainment, Inc.",Consumer Discretionary,Media
 NYSE,RL,Ralph Lauren Corporation,Consumer Discretionary,Consumer Durables and Apparel
 NYSE,NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Discretionary,Consumer Services
 NasdaqGS,JAZZ,Jazz Pharmaceuticals plc,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NasdaqGS,QRTE.A,"Qurate Retail Group, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,QRTE.B,"Qurate Retail Group, Inc.",Consumer Discretionary,Retailing
+NasdaqGS,QRTEA,"Qurate Retail Group, Inc.",Consumer Discretionary,Retailing
+NasdaqGS,QRTEB,"Qurate Retail Group, Inc.",Consumer Discretionary,Retailing
 NYSE,VAR,"Varian Medical Systems, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,IVZ,Invesco Ltd.,Financials,Diversified Financials
 NasdaqGS,JKHY,"Jack Henry & Associates, Inc.",Information Technology,Software and Services
@@ -332,7 +313,6 @@ NasdaqGS,QRVO,"Qorvo, Inc.",Information Technology,Semiconductors and Semiconduc
 NasdaqGS,OTEX,Open Text Corporation,Information Technology,Software and Services
 NasdaqGS,XRAY,DENTSPLY SIRONA Inc.,Healthcare,Healthcare Equipment and Services
 NasdaqGS,SEIC,SEI Investments Co.,Financials,Diversified Financials
-NasdaqGS,TSG,The Stars Group Inc.,Consumer Discretionary,Consumer Services
 NYSE,BURL,"Burlington Stores, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,ON,ON Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,GRUB,GrubHub Inc.,Information Technology,Software and Services
@@ -342,7 +322,6 @@ NYSE,JNPR,"Juniper Networks, Inc.",Information Technology,Technology Hardware an
 NYSE,AFG,"American Financial Group, Inc.",Financials,Insurance
 NasdaqGS,NTNX,"Nutanix, Inc.",Information Technology,Software and Services
 NYSE,RE,"Everest Re Group, Ltd.",Financials,Insurance
-NYSE,TMK,Torchmark Corporation,Financials,Insurance
 NasdaqGS,TSCO,Tractor Supply Company,Consumer Discretionary,Retailing
 NYSE,ARMK,Aramark,Consumer Discretionary,Consumer Services
 NYSE,LDOS,"Leidos Holdings, Inc.",Information Technology,Software and Services
@@ -365,19 +344,16 @@ NasdaqGS,SRPT,"Sarepta Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechn
 NYSE,RGA,"Reinsurance Group of America, Incorporated",Financials,Insurance
 NasdaqGS,BLUE,"bluebird bio, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,BIO,"Bio-Rad Laboratories, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NYSE,BIO.B,"Bio-Rad Laboratories, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,LB,"L Brands, Inc.",Consumer Discretionary,Retailing
-NYSE,DATA,"Tableau Software, Inc.",Information Technology,Software and Services
 NYSE,ATH,Athene Holding Ltd.,Financials,Insurance
 NYSE,PAGS,PagSeguro Digital Ltd.,Information Technology,Software and Services
 NYSE,JWN,"Nordstrom, Inc.",Consumer Discretionary,Retailing
 NYSE,GOOS,Canada Goose Holdings Inc.,Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,DXCM,"DexCom, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqGS,CDK,"CDK Global, Inc.",Information Technology,Software and Services
-NasdaqGS,FWON.A,Formula One Group,Consumer Discretionary,Media
-NasdaqGS,FWON.K,Formula One Group,Consumer Discretionary,Media
+NasdaqGS,FWONA,Formula One Group,Consumer Discretionary,Media
+NasdaqGS,FWONK,Formula One Group,Consumer Discretionary,Media
 NYSE,ST,Sensata Technologies Holding PLC,Industrials,Capital Goods
-NasdaqGS,ULTI,"The Ultimate Software Group, Inc.",Information Technology,Software and Services
 NasdaqGS,DOCU,"DocuSign, Inc.",Information Technology,Software and Services
 NYSE,PHM,"PulteGroup, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,TRMB,Trimble Inc.,Information Technology,Technology Hardware and Equipment
@@ -405,7 +381,6 @@ NasdaqGM,SAGE,"Sage Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnolo
 NasdaqGS,MKTX,MarketAxess Holdings Inc.,Financials,Diversified Financials
 NYSE,FDS,FactSet Research Systems Inc.,Financials,Diversified Financials
 NYSE,PII,Polaris Industries Inc.,Consumer Discretionary,Consumer Durables and Apparel
-NYSE,MSG,The Madison Square Garden Company,Consumer Discretionary,Media
 NYSE,GWRE,"Guidewire Software, Inc.",Information Technology,Software and Services
 NasdaqGS,LOGI,Logitech International S.A.,Information Technology,Technology Hardware and Equipment
 NasdaqGS,ICLR,ICON Public Limited Company,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
@@ -428,9 +403,7 @@ NYSE,AIZ,"Assurant, Inc.",Financials,Insurance
 NYSE,ARW,"Arrow Electronics, Inc.",Information Technology,Technology Hardware and Equipment
 NasdaqGS,SBNY,Signature Bank,Financials,Banks
 NYSE,BAH,Booz Allen Hamilton Holding Corporation,Information Technology,Software and Services
-NYSE,PVTL,"Pivotal Software, Inc.",Information Technology,Software and Services
 NYSE,MOH,"Molina Healthcare, Inc.",Healthcare,Healthcare Equipment and Services
-NasdaqGS,UBNT,"Ubiquiti Networks, Inc.",Information Technology,Technology Hardware and Equipment
 NYSE,DLB,"Dolby Laboratories, Inc.",Information Technology,Technology Hardware and Equipment
 NYSE,PAYC,"Paycom Software, Inc.",Information Technology,Software and Services
 NasdaqGS,COLM,Columbia Sportswear Company,Consumer Discretionary,Consumer Durables and Apparel
@@ -467,7 +440,6 @@ NasdaqGS,LPLA,LPL Financial Holdings Inc.,Financials,Diversified Financials
 NYSE,WBS,Webster Financial Corporation,Financials,Banks
 NasdaqGS,DNKN,"Dunkin' Brands Group, Inc.",Consumer Discretionary,Consumer Services
 NYSE,LEG,"Leggett & Platt, Incorporated",Consumer Discretionary,Consumer Durables and Apparel
-NasdaqGS,CY,Cypress Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,BC,Brunswick Corporation,Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,MPWR,"Monolithic Power Systems, Inc.",Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,TWLO,Twilio Inc.,Information Technology,Software and Services
@@ -502,14 +474,12 @@ NasdaqGS,UTHR,United Therapeutics Corporation,Healthcare,"Pharmaceuticals, Biote
 NasdaqGS,IART,Integra LifeSciences Holdings Corporation,Healthcare,Healthcare Equipment and Services
 NasdaqGS,FGEN,"FibroGen, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,THG,"The Hanover Insurance Group, Inc.",Financials,Insurance
-NYSE,LGF.A,Lions Gate Entertainment Corp.,Consumer Discretionary,Media
-NYSE,LGF.B,Lions Gate Entertainment Corp.,Consumer Discretionary,Media
 NYSE,TDC,Teradata Corporation,Information Technology,Software and Services
 NYSE,THO,"Thor Industries, Inc.",Consumer Discretionary,Automobiles and Components
 NYSE,STL,Sterling Bancorp,Financials,Banks
 NasdaqGS,AGIO,"Agios Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,AVT,"Avnet, Inc.",Information Technology,Technology Hardware and Equipment
-NasdaqGS,GLIB.A,"GCI Liberty, Inc.",Consumer Discretionary,Media
+NasdaqGS,GLIBA,"GCI Liberty, Inc.",Consumer Discretionary,Media
 NasdaqGS,RP,"RealPage, Inc.",Information Technology,Software and Services
 NasdaqGS,MASI,Masimo Corporation,Healthcare,Healthcare Equipment and Services
 NYSE,CHE,Chemed Corporation,Healthcare,Healthcare Equipment and Services
@@ -528,7 +498,6 @@ NasdaqGS,LIVN,LivaNova PLC,Healthcare,Healthcare Equipment and Services
 NYSE,IGT,International Game Technology PLC,Consumer Discretionary,Consumer Services
 NasdaqGS,HQY,"HealthEquity, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,SKX,"Skechers U.S.A., Inc.",Consumer Discretionary,Consumer Durables and Apparel
-NasdaqGS,MDSO,"Medidata Solutions, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,RNR,RenaissanceRe Holdings Ltd.,Financials,Insurance
 NasdaqGS,WTFC,Wintrust Financial Corporation,Financials,Banks
 NYSE,HAE,Haemonetics Corporation,Healthcare,Healthcare Equipment and Services
@@ -538,7 +507,7 @@ NasdaqGS,ROKU,"Roku, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,URBN,"Urban Outfitters, Inc.",Consumer Discretionary,Retailing
 NYSE,JBL,Jabil Inc.,Information Technology,Technology Hardware and Equipment
 NasdaqGS,STMP,Stamps.com Inc.,Information Technology,Software and Services
-NasdaqGS,FCNC.A,"First Citizens BancShares, Inc.",Financials,Banks
+NasdaqGS,FCNCA,"First Citizens BancShares, Inc.",Financials,Banks
 NasdaqGS,TXRH,"Texas Roadhouse, Inc.",Consumer Discretionary,Consumer Services
 NYSE,ASB,Associated Banc-Corp,Financials,Banks
 NYSE,CDAY,Ceridian HCM Holding Inc.,Information Technology,Software and Services
@@ -553,7 +522,6 @@ NasdaqGS,ESGR,Enstar Group Limited,Financials,Insurance
 NasdaqGM,IMMU,"Immunomedics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,PEGA,Pegasystems Inc.,Information Technology,Software and Services
 NYSE,PRI,"Primerica, Inc.",Financials,Insurance
-NYSE,INXN,InterXion Holding N.V.,Information Technology,Software and Services
 NYSE,OMF,"OneMain Holdings, Inc.",Financials,Diversified Financials
 NasdaqGS,TCBI,"Texas Capital Bancshares, Inc.",Financials,Banks
 NasdaqGS,SGMS,Scientific Games Corporation,Consumer Discretionary,Consumer Services
@@ -566,7 +534,6 @@ NasdaqGS,OLED,Universal Display Corporation,Information Technology,Semiconductor
 NasdaqGS,SATS,EchoStar Corporation,Information Technology,Technology Hardware and Equipment
 NasdaqGS,SLAB,Silicon Laboratories Inc.,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,AN,"AutoNation, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,MLNX,"Mellanox Technologies, Ltd.",Information Technology,Semiconductors and Semiconductor Equipment
 NasdaqGS,BRKR,Bruker Corporation,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,TFSL,TFS Financial Corp,Financials,Banks
 NYSE,CACI,CACI International Inc,Information Technology,Software and Services
@@ -576,7 +543,6 @@ NYSE,CHH,"Choice Hotels International, Inc.",Consumer Discretionary,Consumer Ser
 NYSE,CLGX,"CoreLogic, Inc.",Information Technology,Software and Services
 NasdaqGS,EEFT,"Euronet Worldwide, Inc.",Information Technology,Software and Services
 NYSE,FNB,F.N.B. Corporation,Financials,Banks
-NasdaqGS,IBKC,IBERIABANK Corporation,Financials,Banks
 NasdaqGS,JCOM,"j2 Global, Inc.",Information Technology,Software and Services
 NasdaqGS,INGN,"Inogen, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,CABO,"Cable One, Inc.",Consumer Discretionary,Media
@@ -599,18 +565,14 @@ NYSE,MTG,MGIC Investment Corporation,Financials,Banks
 NYSE,AGO,Assured Guaranty Ltd.,Financials,Insurance
 NYSE,GDOT,Green Dot Corporation,Financials,Diversified Financials
 NasdaqGS,CARG,"CarGurus, Inc.",Information Technology,Software and Services
-NYSE,VSM,"Versum Materials, Inc.",Information Technology,Semiconductors and Semiconductor Equipment
 NasdaqGS,CHDN,Churchill Downs Incorporated,Consumer Discretionary,Consumer Services
 NYSE,CMD,Cantel Medical Corp.,Healthcare,Healthcare Equipment and Services
 NasdaqGS,COHR,"Coherent, Inc.",Information Technology,Technology Hardware and Equipment
 NasdaqGS,HOMB,"Home Bancshares, Inc. (Conway, AR)",Financials,Banks
-NasdaqGS,CHFC,Chemical Financial Corporation,Financials,Banks
 NasdaqGM,TTD,"The Trade Desk, Inc.",Information Technology,Software and Services
 NYSE,SNX,SYNNEX Corporation,Information Technology,Technology Hardware and Equipment
 NasdaqGS,FHB,"First Hawaiian, Inc.",Financials,Banks
 NYSE,DLPH,Delphi Technologies PLC,Consumer Discretionary,Automobiles and Components
-NYSE,JW.A,"John Wiley & Sons, Inc.",Consumer Discretionary,Media
-NYSE,JW.B,"John Wiley & Sons, Inc.",Consumer Discretionary,Media
 NYSE,KMPR,Kemper Corporation,Financials,Insurance
 NasdaqGS,UMBF,UMB Financial Corporation,Financials,Banks
 NYSE,CIEN,Ciena Corporation,Information Technology,Technology Hardware and Equipment
@@ -638,7 +600,7 @@ NYSE,BOH,Bank of Hawaii Corporation,Financials,Banks
 NasdaqGS,MIK,"The Michaels Companies, Inc.",Consumer Discretionary,Retailing
 NYSE,ESNT,Essent Group Ltd.,Financials,Banks
 NasdaqGS,LILA,Liberty Latin America Ltd.,Consumer Discretionary,Media
-NasdaqGS,LILA.K,Liberty Latin America Ltd.,Consumer Discretionary,Media
+NasdaqGS,LILAK,Liberty Latin America Ltd.,Consumer Discretionary,Media
 NasdaqGS,FFIN,"First Financial Bankshares, Inc.",Financials,Banks
 NYSE,RDN,Radian Group Inc.,Financials,Banks
 NasdaqGS,BGCP,"BGC Partners, Inc.",Financials,Diversified Financials
@@ -682,7 +644,6 @@ NYSE,VAC,Marriott Vacations Worldwide Corporation,Consumer Discretionary,Consume
 NYSE,ATGE,Adtalem Global Education Inc.,Consumer Discretionary,Consumer Services
 NYSE,CBU,"Community Bank System, Inc.",Financials,Banks
 NYSE,AAN,"Aaron's, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,ONCE,"Spark Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,MFA,"MFA Financial, Inc.",Financials,Diversified Financials
 NasdaqGS,SHOO,"Steven Madden, Ltd.",Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,FFBC,First Financial Bancorp.,Financials,Banks
@@ -694,13 +655,10 @@ NYSE,RLI,RLI Corp.,Financials,Insurance
 NasdaqGS,EYE,"National Vision Holdings, Inc.",Consumer Discretionary,Retailing
 NYSE,GHC,Graham Holdings Company,Consumer Discretionary,Consumer Services
 NYSE,DAN,Dana Incorporated,Consumer Discretionary,Automobiles and Components
-NYSE,AVX,AVX Corporation,Information Technology,Technology Hardware and Equipment
 NasdaqGS,COLB,"Columbia Banking System, Inc.",Financials,Banks
-NasdaqGS,SFLY,"Shutterfly, Inc.",Consumer Discretionary,Retailing
 NasdaqCM,HRTX,"Heron Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,RH,RH,Consumer Discretionary,Retailing
 NasdaqGS,SBGI,"Sinclair Broadcast Group, Inc.",Consumer Discretionary,Media
-NasdaqGS,MDCO,The Medicines Company,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,TREE,"LendingTree, Inc.",Financials,Banks
 NasdaqGS,MYGN,"Myriad Genetics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,FULT,Fulton Financial Corporation,Financials,Banks
@@ -709,10 +667,8 @@ NasdaqGM,NGHC,National General Holdings Corp.,Financials,Insurance
 NasdaqGM,FOLD,"Amicus Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,IBOC,International Bancshares Corporation,Financials,Banks
 NasdaqGS,IDCC,"InterDigital, Inc.",Information Technology,Technology Hardware and Equipment
-NYSE,OAK,"Oaktree Capital Group, LLC",Financials,Diversified Financials
 NasdaqGM,AERI,"Aerie Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,CCMP,Cabot Microelectronics Corporation,Information Technology,Semiconductors and Semiconductor Equipment
-NYSE,BID,Sotheby's,Consumer Discretionary,Consumer Services
 NYSE,BLD,TopBuild Corp.,Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGM,MDB,"MongoDB, Inc.",Information Technology,Software and Services
 NYSE,AMN,"AMN Healthcare Services, Inc.",Healthcare,Healthcare Equipment and Services
@@ -722,7 +678,6 @@ NasdaqGS,LHCG,"LHC Group, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqGM,CRSP,CRISPR Therapeutics AG,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,LM,"Legg Mason, Inc.",Financials,Diversified Financials
 NasdaqGS,HZNP,Horizon Pharma Public Limited Company,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NYSE,TRCO,Tribune Media Company,Consumer Discretionary,Media
 NYSE,TPX,"Tempur Sealy International, Inc.",Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,MMSI,"Merit Medical Systems, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,TWO,Two Harbors Investment Corp.,Financials,Diversified Financials
@@ -736,17 +691,13 @@ NasdaqGS,NUVA,"NuVasive, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqGS,BBBY,Bed Bath & Beyond Inc.,Consumer Discretionary,Retailing
 NasdaqGS,WMGI,Wright Medical Group N.V.,Healthcare,Healthcare Equipment and Services
 NasdaqGS,IIVI,II-VI Incorporated,Information Technology,Technology Hardware and Equipment
-NasdaqGS,LEXE.A,"Liberty Expedia Holdings, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,LEXE.B,"Liberty Expedia Holdings, Inc.",Consumer Discretionary,Retailing
 NYSE,EBS,Emergent BioSolutions Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,FMBI,"First Midwest Bancorp, Inc.",Financials,Banks
 NasdaqGS,GRPN,"Groupon, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,PTLA,"Portola Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,MUSA,Murphy USA Inc.,Consumer Discretionary,Retailing
 NYSE,QTWO,"Q2 Holdings, Inc.",Information Technology,Software and Services
 NYSE,ENV,"Envestnet, Inc.",Information Technology,Software and Services
 NYSE,ZUO,"Zuora, Inc.",Information Technology,Software and Services
-NasdaqGS,UBSH,Union Bankshares Corporation,Financials,Banks
 NYSE,BDC,Belden Inc.,Information Technology,Technology Hardware and Equipment
 NasdaqGS,QDEL,Quidel Corporation,Healthcare,Healthcare Equipment and Services
 NYSE,NTB,The Bank of N.T. Butterfield & Son Limited,Financials,Banks
@@ -755,7 +706,6 @@ NYSE,AYX,"Alteryx, Inc.",Information Technology,Software and Services
 NasdaqGS,EBIX,"Ebix, Inc.",Information Technology,Software and Services
 NYSE,GTT,"GTT Communications, Inc.",Information Technology,Software and Services
 NYSE,SEM,Select Medical Holdings Corporation,Healthcare,Healthcare Equipment and Services
-NasdaqGS,CSFL,CenterState Bank Corporation,Financials,Banks
 NasdaqGS,CAKE,The Cheesecake Factory Incorporated,Consumer Discretionary,Consumer Services
 NasdaqGS,BL,"BlackLine, Inc.",Information Technology,Software and Services
 NasdaqGS,NTCT,"NetScout Systems, Inc.",Information Technology,Technology Hardware and Equipment
@@ -765,7 +715,6 @@ NasdaqGS,MIME,Mimecast Limited,Information Technology,Software and Services
 NasdaqGS,HALO,"Halozyme Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,NNI,"Nelnet, Inc.",Financials,Diversified Financials
 NasdaqGS,NTGR,"NETGEAR, Inc.",Information Technology,Technology Hardware and Equipment
-NYSE,TVPT,Travelport Worldwide Limited,Information Technology,Software and Services
 NasdaqGS,SEDG,"SolarEdge Technologies, Inc.",Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,MCY,Mercury General Corporation,Financials,Insurance
 NasdaqGS,JACK,Jack in the Box Inc.,Consumer Discretionary,Consumer Services
@@ -789,7 +738,6 @@ NYSE,TMHC,Taylor Morrison Home Corporation,Consumer Discretionary,Consumer Durab
 NasdaqGS,HOPE,"Hope Bancorp, Inc.",Financials,Banks
 NasdaqGS,SPPI,"Spectrum Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,CYBR,CyberArk Software Ltd.,Information Technology,Software and Services
-NYSE,FII,"Federated Investors, Inc.",Financials,Diversified Financials
 NYSE,KBH,KB Home,Consumer Discretionary,Consumer Durables and Apparel
 NasdaqGS,VIAV,Viavi Solutions Inc.,Information Technology,Technology Hardware and Equipment
 NYSE,DDS,"Dillard's, Inc.",Consumer Discretionary,Retailing
@@ -834,15 +782,12 @@ NasdaqGS,ARNA,"Arena Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotech
 NYSE,ROG,Rogers Corporation,Information Technology,Technology Hardware and Equipment
 NasdaqGS,MNTA,"Momenta Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGM,APPF,"AppFolio, Inc.",Information Technology,Software and Services
-NYSE,AXE,Anixter International Inc.,Information Technology,Technology Hardware and Equipment
 NasdaqGM,ZGNX,"Zogenix, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,AMC,"AMC Entertainment Holdings, Inc.",Consumer Discretionary,Media
 NasdaqGS,TSEM,Tower Semiconductor Ltd.,Information Technology,Semiconductors and Semiconductor Equipment
 NasdaqGS,WSBC,"WesBanco, Inc.",Financials,Banks
-NYSE,CISN,Cision Ltd.,Information Technology,Software and Services
 NYSE,EAT,"Brinker International, Inc.",Consumer Discretionary,Consumer Services
 NasdaqGS,EXLS,"ExlService Holdings, Inc.",Information Technology,Software and Services
-NasdaqGS,AKRX,"Akorn, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ACAD,ACADIA Pharmaceuticals Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGM,XLRN,Acceleron Pharma Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,HTH,Hilltop Holdings Inc.,Financials,Banks
@@ -854,7 +799,6 @@ NYSE,TUP,Tupperware Brands Corporation,Consumer Discretionary,Consumer Durables 
 NasdaqGS,OMCL,"Omnicell, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqCM,EGBN,"Eagle Bancorp, Inc.",Financials,Banks
 NasdaqCM,AXGN,"AxoGen, Inc.",Healthcare,Healthcare Equipment and Services
-NasdaqGS,FNSR,Finisar Corporation,Information Technology,Technology Hardware and Equipment
 NYSE,GLOB,Globant S.A.,Information Technology,Software and Services
 NasdaqGS,ALRM,"Alarm.com Holdings, Inc.",Information Technology,Software and Services
 NasdaqGS,CNMD,CONMED Corporation,Healthcare,Healthcare Equipment and Services
@@ -865,14 +809,12 @@ NasdaqGS,AMKR,"Amkor Technology, Inc.",Information Technology,Semiconductors and
 NYSE,CNS,"Cohen & Steers, Inc.",Financials,Diversified Financials
 NasdaqGS,HMSY,HMS Holdings Corp.,Healthcare,Healthcare Equipment and Services
 NYSE,PRA,ProAssurance Corporation,Financials,Insurance
-NasdaqGM,MB,"MINDBODY, Inc.",Information Technology,Software and Services
 NYSE,FFG,"FBL Financial Group, Inc.",Financials,Insurance
 NasdaqGM,APPN,Appian Corporation,Information Technology,Software and Services
 NasdaqGM,FIVN,"Five9, Inc.",Information Technology,Software and Services
 NasdaqGS,BANF,BancFirst Corporation,Financials,Banks
 NasdaqGS,PBYI,"Puma Biotechnology, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,FOXF,Fox Factory Holding Corp.,Consumer Discretionary,Automobiles and Components
-NasdaqGS,ISCA,International Speedway Corporation,Consumer Discretionary,Consumer Services
 NasdaqGS,BANR,Banner Corporation,Financials,Banks
 NYSE,PBH,"Prestige Brands Holdings, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,PINC,"Premier, Inc.",Healthcare,Healthcare Equipment and Services
@@ -887,9 +829,7 @@ NYSE,FBC,"Flagstar Bancorp, Inc.",Financials,Banks
 NasdaqGS,INSM,Insmed Incorporated,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,PRAA,"PRA Group, Inc.",Financials,Diversified Financials
 NasdaqGS,BLMN,"Bloomin' Brands, Inc.",Consumer Discretionary,Consumer Services
-NYSE,DPLO,"Diplomat Pharmacy, Inc.",Healthcare,Healthcare Equipment and Services
 NasdaqGS,PLCE,"The Children's Place, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,GHDX,"Genomic Health, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,CLBK,"Columbia Financial, Inc.",Financials,Banks
 NasdaqGS,PLAY,"Dave & Buster's Entertainment, Inc.",Consumer Discretionary,Consumer Services
 NYSE,SBH,"Sally Beauty Holdings, Inc.",Consumer Discretionary,Retailing
@@ -898,10 +838,8 @@ NYSE,LC,LendingClub Corporation,Financials,Diversified Financials
 NYSE,MTH,Meritage Homes Corporation,Consumer Discretionary,Consumer Durables and Apparel
 NYSE,AXL,"American Axle & Manufacturing Holdings, Inc.",Consumer Discretionary,Automobiles and Components
 NYSE,BHLB,"Berkshire Hills Bancorp, Inc.",Financials,Banks
-NYSE,FG,FGL Holdings,Financials,Diversified Financials
 NYSE,SHAK,Shake Shack Inc.,Consumer Discretionary,Consumer Services
 NYSE,HMN,Horace Mann Educators Corporation,Financials,Insurance
-NYSE,CBM,Cambrex Corporation,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,NWBI,"Northwest Bancshares, Inc.",Financials,Banks
 NYSE,MSGN,MSG Networks Inc.,Consumer Discretionary,Media
 NYSE,YEXT,"Yext, Inc.",Information Technology,Software and Services
@@ -923,12 +861,10 @@ NasdaqGS,PRGS,Progress Software Corporation,Information Technology,Software and 
 NasdaqGS,HTLF,"Heartland Financial USA, Inc.",Financials,Banks
 NasdaqGS,NSIT,"Insight Enterprises, Inc.",Information Technology,Technology Hardware and Equipment
 NYSE,BKD,Brookdale Senior Living Inc.,Healthcare,Healthcare Equipment and Services
-NasdaqGS,LTXB,"LegacyTexas Financial Group, Inc.",Financials,Banks
 NYSE,EVH,"Evolent Health, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,ANF,Abercrombie & Fitch Co.,Consumer Discretionary,Retailing
 NYSE,DDD,3D Systems Corporation,Information Technology,Technology Hardware and Equipment
 NYSE,IBP,"Installed Building Products, Inc.",Consumer Discretionary,Consumer Durables and Apparel
-NasdaqGS,NAVG,"The Navigators Group, Inc.",Financials,Insurance
 NYSE,FBP,First BanCorp.,Financials,Banks
 NasdaqGS,WSFS,WSFS Financial Corporation,Financials,Banks
 NasdaqGS,NBTB,NBT Bancorp Inc.,Financials,Banks
@@ -940,14 +876,12 @@ NYSE,BIG,"Big Lots, Inc.",Consumer Discretionary,Retailing
 NYSE,APAM,Artisan Partners Asset Management Inc.,Financials,Diversified Financials
 NasdaqGS,PTCT,"PTC Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ANAB,"AnaptysBio, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NYSE,KEM,KEMET Corporation,Information Technology,Technology Hardware and Equipment
 NasdaqGS,PZZA,"Papa John's International, Inc.",Consumer Discretionary,Consumer Services
 NasdaqGS,EDIT,"Editas Medicine, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqCM,CORT,Corcept Therapeutics Incorporated,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,VRTU,Virtusa Corporation,Information Technology,Software and Services
 NasdaqGS,SCHL,Scholastic Corporation,Consumer Discretionary,Media
 NasdaqGS,BEAT,"BioTelemetry, Inc.",Healthcare,Healthcare Equipment and Services
-NasdaqGS,CBLK,"Carbon Black, Inc.",Information Technology,Software and Services
 NYSE,FIT,"Fitbit, Inc.",Information Technology,Technology Hardware and Equipment
 NasdaqGS,TTEC,"TTEC Holdings, Inc.",Information Technology,Software and Services
 NYSE,PRTY,Party City Holdco Inc.,Consumer Discretionary,Retailing
@@ -956,15 +890,12 @@ NYSE,FCF,First Commonwealth Financial Corporation,Financials,Banks
 NasdaqGS,BUSE,First Busey Corporation,Financials,Banks
 NasdaqGS,MEDP,"Medpace Holdings, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,HUD,Hudson Ltd.,Consumer Discretionary,Retailing
-NasdaqGS,TIVO,TiVo Corporation,Information Technology,Software and Services
-NYSE,INST,"Instructure, Inc.",Information Technology,Software and Services
 NasdaqGM,CRON,Cronos Group Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,EVTC,"EVERTEC, Inc.",Information Technology,Software and Services
 NYSE,ARCO,Arcos Dorados Holdings Inc.,Consumer Discretionary,Consumer Services
 NYSE,LADR,Ladder Capital Corp,Financials,Diversified Financials
 NasdaqGS,WABC,Westamerica Bancorporation,Financials,Banks
 NasdaqGS,MTSI,"MACOM Technology Solutions Holdings, Inc.",Information Technology,Semiconductors and Semiconductor Equipment
-NasdaqGS,EFII,"Electronics for Imaging, Inc.",Information Technology,Technology Hardware and Equipment
 NasdaqGS,INOV,"Inovalon Holdings, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,GME,GameStop Corp.,Consumer Discretionary,Retailing
 NasdaqGS,MSTR,MicroStrategy Incorporated,Information Technology,Software and Services
@@ -1015,7 +946,6 @@ NasdaqGS,OSIS,"OSI Systems, Inc.",Information Technology,Technology Hardware and
 NYSE,CNNE,"Cannae Holdings, Inc.",Financials,Diversified Financials
 NasdaqGS,KRNY,Kearny Financial Corp.,Financials,Banks
 NasdaqGS,WETF,"WisdomTree Investments, Inc.",Financials,Diversified Financials
-NasdaqGM,BOLD,"Audentes Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,CSGS,"CSG Systems International, Inc.",Information Technology,Software and Services
 NYSE,EIG,"Employers Holdings, Inc.",Financials,Insurance
 NasdaqGS,PLYA,Playa Hotels & Resorts N.V.,Consumer Discretionary,Consumer Services
@@ -1030,18 +960,16 @@ NasdaqGS,LPSN,"LivePerson, Inc.",Information Technology,Software and Services
 NasdaqGS,SPSC,"SPS Commerce, Inc.",Information Technology,Software and Services
 AMEX,TMP,Tompkins Financial Corporation,Financials,Banks
 NYSE,GTN,"Gray Television, Inc.",Consumer Discretionary,Media
-NYSE,GTN.A,"Gray Television, Inc.",Consumer Discretionary,Media
 NYSE,QUOT,Quotient Technology Inc.,Information Technology,Software and Services
 NasdaqGS,STFC,State Auto Financial Corporation,Financials,Insurance
-NasdaqGS,BATR.A,The Liberty Braves Group,Consumer Discretionary,Media
-NasdaqGS,BATR.K,The Liberty Braves Group,Consumer Discretionary,Media
+NasdaqGS,BATRA,The Liberty Braves Group,Consumer Discretionary,Media
+NasdaqGS,BATRK,The Liberty Braves Group,Consumer Discretionary,Media
 NasdaqGS,DNLI,Denali Therapeutics Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,BMI,"Badger Meter, Inc.",Information Technology,Technology Hardware and Equipment
 NYSE,GPI,"Group 1 Automotive, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,HOLI,Hollysys Automation Technologies Ltd.,Information Technology,Technology Hardware and Equipment
 NasdaqGS,SOHU,Sohu.com Limited,Information Technology,Software and Services
 NasdaqGS,LGIH,"LGI Homes, Inc.",Consumer Discretionary,Consumer Durables and Apparel
-NYSE,LXFT,"Luxoft Holding, Inc.",Information Technology,Software and Services
 NasdaqGM,RDUS,"Radius Health, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,TPRE,Third Point Reinsurance Ltd.,Financials,Insurance
 NasdaqGS,QURE,uniQure N.V.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
@@ -1053,7 +981,6 @@ NasdaqGS,LXRX,"Lexicon Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biote
 NasdaqGS,HFWA,Heritage Financial Corporation,Financials,Banks
 NasdaqGS,CASA,"Casa Systems, Inc.",Information Technology,Technology Hardware and Equipment
 NYSE,UVE,"Universal Insurance Holdings, Inc.",Financials,Insurance
-NasdaqGM,ALDR,"Alder Biopharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NYSE,CTB,Cooper Tire & Rubber Company,Consumer Discretionary,Automobiles and Components
 NYSE,USPH,"U.S. Physical Therapy, Inc.",Healthcare,Healthcare Equipment and Services
 NYSE,DIN,"Dine Brands Global, Inc.",Consumer Discretionary,Consumer Services
@@ -1068,7 +995,6 @@ NasdaqGS,AMBA,"Ambarella, Inc.",Information Technology,Semiconductors and Semico
 NYSE,RWT,"Redwood Trust, Inc.",Financials,Diversified Financials
 NYSE,PRO,"PROS Holdings, Inc.",Information Technology,Software and Services
 NasdaqGM,IOVA,"Iovance Biotherapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NasdaqGS,PSDO,"Presidio, Inc.",Information Technology,Software and Services
 NasdaqCM,WINS,Wins Finance Holdings Inc.,Financials,Diversified Financials
 NYSE,TRTX,"TPG RE Finance Trust, Inc.",Financials,Diversified Financials
 NasdaqGS,LKFN,Lakeland Financial Corporation,Financials,Banks
@@ -1102,7 +1028,6 @@ NasdaqGS,ATRI,Atrion Corporation,Healthcare,Healthcare Equipment and Services
 NYSE,BKE,"The Buckle, Inc.",Consumer Discretionary,Retailing
 NasdaqGS,SNBR,Sleep Number Corporation,Consumer Discretionary,Retailing
 NasdaqGS,ITCI,"Intra-Cellular Therapies, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NYSE,NEWM,New Media Investment Group Inc.,Consumer Discretionary,Media
 NasdaqGS,KPTI,Karyopharm Therapeutics Inc.,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,SPWR,SunPower Corporation,Information Technology,Semiconductors and Semiconductor Equipment
 NYSE,KREF,KKR Real Estate Finance Trust Inc.,Financials,Diversified Financials
@@ -1117,13 +1042,9 @@ NYSE,WK,Workiva Inc.,Information Technology,Software and Services
 NasdaqGS,CGBD,"TCG BDC, Inc.",Financials,Diversified Financials
 NasdaqGS,EGOV,NIC Inc.,Information Technology,Software and Services
 NYSE,CHS,"Chico's FAS, Inc.",Consumer Discretionary,Retailing
-NasdaqGS,BABY,Natus Medical Incorporated,Healthcare,Healthcare Equipment and Services
-NasdaqGS,OPB,Opus Bank,Financials,Banks
 NasdaqGS,APLS,"Apellis Pharmaceuticals, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,TBK,"Triumph Bancorp, Inc.",Financials,Banks
 NYSE,STC,Stewart Information Services Corporation,Financials,Insurance
-NasdaqGS,CRAY,Cray Inc.,Information Technology,Technology Hardware and Equipment
-NYSE,PJC,Piper Jaffray Companies,Financials,Diversified Financials
 NasdaqGM,XENT,"Intersect ENT, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,ECPG,"Encore Capital Group, Inc.",Financials,Diversified Financials
 NasdaqGS,EXTR,"Extreme Networks, Inc.",Information Technology,Technology Hardware and Equipment
@@ -1132,7 +1053,6 @@ NasdaqCM,TGTX,"TG Therapeutics, Inc.",Healthcare,"Pharmaceuticals, Biotechnology
 NYSE,BLX,"Banco Latinoamericano de Comercio Exterior, S.A",Financials,Diversified Financials
 NYSE,CO,Global Cord Blood Corporation,Healthcare,Healthcare Equipment and Services
 NasdaqGS,EPZM,"Epizyme, Inc.",Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
-NYSE,RTEC,"Rudolph Technologies, Inc.",Information Technology,Semiconductors and Semiconductor Equipment
 NasdaqGS,CASH,"Meta Financial Group, Inc.",Financials,Banks
 NasdaqCM,DVAX,Dynavax Technologies Corporation,Healthcare,"Pharmaceuticals, Biotechnology and Life Sciences"
 NasdaqGS,XPER,Xperi Corporation,Information Technology,Semiconductors and Semiconductor Equipment
