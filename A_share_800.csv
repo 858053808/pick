@@ -1,4 +1,4 @@
-date,code,name,weight,Exchange
+date,Ticker,name,weight,Exchange
 2021-01-29,600006,东风汽车,0.09,zz500
 2021-01-29,600008,首创股份,0.22,zz500
 2021-01-29,600021,上海电力,0.13,zz500
