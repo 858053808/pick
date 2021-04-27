@@ -1,14 +1,53 @@
-Ticker,Industry
-XLV,醫療
-XLF,金融
-XLP,必需消費品
-VGT,訊息技術
-ITA,航天
-IPAY,支付
-FIVG,新一代通訊
-GLD,黃金
-SOX,半導體
-SUSA,ESG
-XLI,工業
-VDE,能源
-FENY,能源
+Tickers,Name
+XLF,金融行業ETF-SPDR
+XLE,能源指數ETF-SPDR
+XLV,健康照護類股ETF-SPDR
+XLI,工業指數ETF-SPDR
+SMH,半導體指數ETF-HOLDRs
+IBB,生物科技指數ETF-iShares Nasdaq
+XLP,消費品指數ETF-SPDR主要消費品
+SOXL,三倍做多半導體ETF-Direxion Daily
+XLK,高科技指數ETF-SPDR
+VNQ,不動產信托指數ETF-Vanguard
+IYR,房地產指數ETF-iShares道瓊斯
+XLU,公共事業指數ETF-SPDR
+XLY,消費品指數ETF-SPDR可選消費品
+XLB,基礎材料ETF-SPDR
+TAN,太陽能ETF-Guggenheim
+XME,金屬與採礦指數ETF-SPDR
+XRT,零售指數ETF-SPDR標普
+ITB,房屋建築指數ETF-iShares Dow Jones
+FAS,金融指數ETF-Direxion三倍做多羅素金融股
+IYT,運輸指數ETF-iShares
+XHB,房屋建築商指數ETF-SPDR
+KBE,銀行指數ETF-SPDR KBW
+OIH,油服ETF-Market Vectors
+ERX,二倍做多能源ETF-Direxion
+DBC,商品指數ETF-PowerShares DB
+DBA,農業指數ETF-PowerShares DB
+FAZ,三倍做空金融ETF-Direxion
+UNG,天然氣ETF-United States
+IYF,金融指數ETF-iShares Dow Jones
+RTH,零售指數ETF-HOLDRs
+IYM,基礎材料ETF-iShares Dow Jones
+ERY,2倍做空能源ETF-Direxion
+DRN,房地產指數ETF-Direxion三倍做多
+KIE,保險指數ETF-SPDR KBW
+ICF,不動產指數ETF-iShares
+ITA,iShares安碩美國航空航天與國防ETF
+PGF,優先金融股指數ETF-PowerShares
+RJA,羅傑斯農業指數ETN-ELEMENTS
+MOO,農業指數ETF-Market Vectors
+IYC,iShares安碩美國消費服務ETF
+UYG,兩倍做多金融股ETF-ProShares
+FRI,不動產投資信托指數ETF-First Trust S&P
+UYM,基礎材料指數ETF-ProShares兩倍做多
+IYZ,iShares安碩美國電信ETF
+DRV,三倍做空房地產ETF-Direxion
+IHE,iShares安碩美國醫葯ETF
+URE,二倍做多房地產ETF-ProShares
+SKF,金融股指數ETF-ProShares兩倍做空
+NLR,核能指数ETF-Market Vectors
+SRS,两倍做空房地产ETF-ProShares
+RJI,羅傑斯商品指數ETN-ELEMENTS
+SMN,兩倍做空基礎材料ETF-ProShare
